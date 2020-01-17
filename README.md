@@ -1,1 +1,0 @@
-# poc-npm-package
