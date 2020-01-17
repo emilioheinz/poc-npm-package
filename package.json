@@ -1,0 +1,22 @@
+{
+  "name": "poc-npm-package",
+  "version": "1.0.0",
+  "description": "A poc about creation of react native libs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilioheinz/poc-npm-package.git"
+  },
+  "author": "emilioheinz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilioheinz/poc-npm-package/issues"
+  },
+  "homepage": "https://github.com/emilioheinz/poc-npm-package#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.4"
+  }
+}
